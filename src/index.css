@@ -9,8 +9,98 @@ ul {
   list-style: none;
 }
 
-img {
-  width: 100%;
+body{
+  background-color: #dfe0df;
+  color: #402e32;
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 80%;
+  margin: auto;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  font-size: 90%;
+  padding: auto;
+}
+h1{
+  color: #6b0300;
+  font-size: 48;
+  padding: auto;
+}
+h2{
+  color: #6b0300;
+  font-size: 30;
+  padding: auto;
+  font-family: Verdana;
+}
+a{
+  color: #3d2e0a;
+  text-decoration: none;
+  padding: auto;
+}
+a:hover{
+  background-color: #d19f9e;
+  width: 80%;
+  border-radius: 80%;
+}
+ul{
+  color:#3d2e0a;
+  list-style: none;
+  text-align: left;
+  padding-right:10%;
+  padding-left: 10%;
+  padding-bottom: 2%;
+}
+main{
+  border-radius: 10%;
+  background-color: #dbc298;
+  padding: auto;
+  margin-top: 1%;
+}
+ol{
+  text-align: left;
+  padding-right:10%;
+  padding-left: 10%;
+  padding-bottom: 2%;
+}
+.ingredients{
+  font-family: Verdana;
+  padding: auto;
+}
+#img{
+  font-style: italic;
+  padding: auto;
+}
+.links li{
+  text-align: center;
+  display: inline;
+  padding: auto;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+img{
+  border: #6b0300;
+  border-radius: 20%;
+  padding: auto;
+  max-width: 75%;
+  margin-top: 2%;
+  padding: auto;
+}
+#title{
+  display: inline;
+  background-color: #dbc298;
+  border-radius: 70%;
+  width: 30%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+nav{
+  padding-left: 27%;
+  margin-top: 2%;
 }
 
 /* Add your CSS below */
